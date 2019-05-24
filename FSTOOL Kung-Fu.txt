@@ -1,5 +1,5 @@
 ----Shows if the host is manageable----
-fstool va_test -h <ip address> -c manage”
+fstool va_test -h <ip address> -c manage
 
 ----Shows if manageable plus misc test results and ports open----
 fstool va_test -h <ip address> 
